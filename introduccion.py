@@ -11,5 +11,5 @@ dni = 73699094
 
 #Imprimiendo variables
 print("Mi nombre es:", nombre, "y mi apellido es:", apellido)
-print("Actualmente vivo en lima y mi direccion es:", direccion, ", para contactarme escribirme al numero:", telf, "tengo la edad de :", edad, ", asi que estoy listo para trabajar")
+print("Actualmente vivo en lima y mi direccion es:", direccion, ", para contactarme escribirme al número:", telf, "tengo la edad de :", edad, ", asi que estoy listo para trabajar")
 print("mi dni es",dni)
