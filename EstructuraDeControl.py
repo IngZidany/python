@@ -25,3 +25,13 @@ elif suma == 40:
     print(suma/4)
 else:
     print(suma*2)
+
+print("-------------------------------------------------------------------")
+
+print("a es 5:" if a == 5 else "a no es igual a 5")
+print("b es 10:" if b == 10 else "b no es igual a 10")
+print("c es 5:" if c == 5 else "c no es igual a 5")
+
+'''
+operador ternario en python, if else en una sola linea.
+'''
