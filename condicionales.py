@@ -13,7 +13,7 @@ Las condicionales son estructuras de control que nos permiten tomar,
 decisiones en base a una condicion de que se cumpla o no.
 '''
 
-#ejemplo de condicionales o sentencias de control
+#ejemplo de condicionales o sentencias de control en python
 
 if "Pedro" in amigos:
     print("Pedro no es tu amigo")
