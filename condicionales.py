@@ -76,3 +76,4 @@ else:
 
 '''Si el valor de la suma de a +b está en el array se ejecuta la funcion de divicion q retorna la el resultado de la suma,
 dividido sobre c , caso sontrario que suma no esté en el array se ejecuta el segunto print'''
+
